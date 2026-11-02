@@ -24,8 +24,6 @@ REVA is a mobile-first static analysis tool. A Flutter Android app uploads an AP
 - [Limitations](#limitations)
 - [Roadmap](#roadmap)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Team](#team)
 - [License](#license)
 
 ---
